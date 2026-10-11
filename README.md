@@ -18,12 +18,12 @@ Electronics & Communication Engineering graduate working in telecom network engi
 
 I'm an engineering professional with a **B.Tech in Electronics & Communication Engineering** and experience in telecom network operations, IT infrastructure, troubleshooting, and technical coordination.
 
-📡 **Current role:** Network Engineer at Tejas Networks Pvt. Ltd. (January 2024 – Present)
-🛰️ **Focus:** RAN / O&M / NOC operations supporting BSNL projects
-🖧 **Operations background:** LAN/WAN, system administration, monitoring, backup/recovery, and technical field coordination
-📊 **Additional training:** Post Graduate Program in Data Science (Simplilearn, 2023)
-☁️ **Current learning focus:** DevOps, Linux, Shell scripting, AWS, containers, and CI/CD
-🌐 **Website:** [akinfotek.in](https://akinfotek.in/)
+- 📡 **Current role:** Network Engineer at Tejas Networks Pvt. Ltd. (January 2024 – Present)
+- 🛰️ **Focus:** RAN / O&M / NOC operations supporting BSNL projects
+- 🖧 **Operations background:** LAN/WAN, system administration, monitoring, backup/recovery, and technical field coordination
+- 📊 **Additional training:** Post Graduate Program in Data Science (Simplilearn, 2023)
+- ☁️ **Current learning focus:** DevOps, Linux, Shell scripting, AWS, containers, and CI/CD
+- 🌐 **Website:** [akinfotek.in](https://akinfotek.in/)
 
 ## 💼 Experience
 

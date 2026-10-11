@@ -7,6 +7,7 @@
 **Connecting infrastructure, operations, and software through hands-on learning and practical projects.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-erkirtanraj-181717?style=for-the-badge&logo=github)](https://github.com/erkirtanraj)
+[![Website](https://img.shields.io/badge/Website-CodeGenius.guru-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codegenius.guru/)
 [![Repositories](https://img.shields.io/badge/Explore-My_Repositories-2ea44f?style=for-the-badge&logo=github)](https://github.com/erkirtanraj?tab=repositories)
 [![Learning](https://img.shields.io/badge/Focus-Cloud_%26_DevOps-6f42c1?style=for-the-badge&logo=amazonaws)](https://github.com/erkirtanraj)
 
@@ -153,6 +154,7 @@ A selection of projects and learning repositories from my GitHub profile.
 I'm interested in connecting with people working in **network engineering, cloud infrastructure, DevOps, automation, and educational technology**.
 
 - 🐙 GitHub: [@erkirtanraj](https://github.com/erkirtanraj)
+- 🌐 Website: [CodeGenius.guru](https://www.codegenius.guru/)
 - 📂 Projects: [Repositories](https://github.com/erkirtanraj?tab=repositories)
 
 If a project interests you, explore the repository, open an issue, or share an idea.

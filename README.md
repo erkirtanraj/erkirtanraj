@@ -69,25 +69,20 @@ I'm an engineering professional with a **B.Tech in Electronics & Communication E
 - **Post Graduate Program in Data Science**, Simplilearn (2023)
 - **DevOps professional development** , StarAgile (2025)
 
-## 🚀 Selected Projects
+## 🚀 Current Projects
 
-| Project | Description |
+| Project | Current focus |
 |---|---|
-| [ECR-ECS Project](https://github.com/erkirtanraj/ECR-ECS-Project) | AWS container deployment / ECR-ECS project |
-| [Docker by Kastro](https://github.com/erkirtanraj/Docker-by-Kastro) | Docker learning and practice |
-| [AWS DevOps Zero to Hero](https://github.com/erkirtanraj/aws-devops-zero-to-hero) | AWS and DevOps learning repository |
-| [GCP Zero to Hero](https://github.com/erkirtanraj/gcp-zero-to-hero) | Google Cloud learning repository |
-| [Shell Scripting for DevOps](https://github.com/erkirtanraj/ShellScriptingforDevOpsEngineering) | Shell scripting practice and notes |
-| [Computer Networks Guide](https://github.com/erkirtanraj/computer-networks-guide) | Computer networking reference material |
-| [DevOps Class Notes](https://github.com/erkirtanraj/DevOps_ClassNotes) | DevOps course notes and learning material |
-| [Kubernetes Training](https://github.com/erkirtanraj/Kubernetes-Trainning-Ericsson-21Apr) | Kubernetes training materials |
-| [AWS DevOps Zero to Hero](https://github.com/erkirtanraj/aws-devops-zero-to-hero) | AWS and DevOps learning repository |
-| [Shell Scripting for DevOps](https://github.com/erkirtanraj/ShellScriptingforDevOpsEngineering) | Shell scripting practice and notes |
-| [Computer Networks Guide](https://github.com/erkirtanraj/computer-networks-guide) | Computer networking reference material |
+| [AK Infotek Website](https://github.com/erkirtanraj/AKinfotek_Website) | Website development for [akinfotek.in](https://akinfotek.in/) |
+| [Jharkhand Guru](https://github.com/erkirtanraj/Jharkhand.guru) | Education platform and exam-preparation services |
+| [LMS Quiz Website](https://github.com/erkirtanraj/LMS_Quiz_Website) | Quiz and learning management system |
+| [RRB Guru](https://github.com/erkirtanraj/RRB_GURU) | Railway exam-preparation platform |
+| [Jharkhand Guru AI](https://github.com/erkirtanraj/JHARKHAND_GURU_AI) | AI-focused education application |
+| [Ludo King 99](https://github.com/erkirtanraj/Ludo_king_99) | Mobile game and ad-monetization work |
 
 ➡️ **[Browse all repositories](https://github.com/erkirtanraj?tab=repositories)**
 
-*Some application repositories are private and are therefore not listed here; the links above point to public repositories.*
+*This section highlights projects from my recent development work. Some linked repositories are private and may not be publicly accessible.*
 
 ## 📚 Current Learning Roadmap
 

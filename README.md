@@ -19,7 +19,7 @@
 
 I'm an engineering professional with a background spanning **telecom/network operations, transmission, and industrial operations**. I enjoy troubleshooting infrastructure, learning new technologies, and building digital products that solve practical problems.
 
-- 🏭 **Current domain:** Steel manufacturing operations
+- 🏭 **Current domain:** Networking & Telecom
 - 📡 **Experience areas:** LAN/WAN, telecom, RAN, transmission, NOC operations, monitoring, and troubleshooting
 - ☁️ **Technical focus:** Linux, AWS, Docker, Kubernetes, CI/CD, and infrastructure automation
 - 🛠️ **Building with:** Python, Shell scripting, web technologies, and learning-platform projects

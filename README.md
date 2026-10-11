@@ -2,86 +2,169 @@
 
 # 👋 Hi, I'm Kirtan Rajwar
 
-### Network Engineer | DevOps Enthusiast | Cloud & Automation Learner
+### Network & Telecom Engineering • DevOps • Cloud • Automation
 
-Building practical skills across networking, Linux, cloud infrastructure, and automation.
+**Connecting infrastructure, operations, and software through hands-on learning and practical projects.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-erkirtanraj-181717?style=for-the-badge&logo=github)](https://github.com/erkirtanraj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/erkirtanraj)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-2ea44f?style=for-the-badge&logo=github)](https://github.com/erkirtanraj?tab=repositories)
+[![Learning](https://img.shields.io/badge/Focus-Cloud_%26_DevOps-6f42c1?style=for-the-badge&logo=amazonaws)](https://github.com/erkirtanraj)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-- 💼 Currently working in **steel manufacturing**, with experience in operations and telecom/network engineering.
-- 🌐 Background in **LAN/WAN networking, telecom, RAN, transmission, and NOC operations**.
-- ☁️ Developing hands-on skills in **AWS, Linux, Docker, Kubernetes, CI/CD, and DevOps**.
-- 🐍 Interested in scripting and automation with **Python and Shell**.
-- 🎯 Focused on learning by building practical projects and documenting what I learn.
+I'm an engineering professional with a background spanning **telecom/network operations, transmission, and industrial operations**. I enjoy troubleshooting infrastructure, learning new technologies, and building digital products that solve practical problems.
 
-## 🧰 Tech Stack
+- 🏭 **Current domain:** Steel manufacturing operations
+- 📡 **Experience areas:** LAN/WAN, telecom, RAN, transmission, NOC operations, monitoring, and troubleshooting
+- ☁️ **Technical focus:** Linux, AWS, Docker, Kubernetes, CI/CD, and infrastructure automation
+- 🛠️ **Building with:** Python, Shell scripting, web technologies, and learning-platform projects
+- 📚 **Learning mindset:** Practice, document, improve, and share
+- 🎯 **Goal:** Grow toward cloud and DevOps engineering while applying my infrastructure and operations background
 
-### Networking & Systems
-![Networking](https://img.shields.io/badge/Networking-LAN%2FWAN-1572B6?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Telecom](https://img.shields.io/badge/Telecom-RAN%20%7C%20Transmission-00599C?style=flat-square)
+## 🧭 What I Work On
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Networking & Infrastructure
+- LAN/WAN fundamentals and troubleshooting
+- Telecom and transmission systems
+- RAN integration and network operations
+- Monitoring, availability, and incident resolution
+- Linux administration and command-line tools
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- AWS cloud services and infrastructure
+- Git, GitHub, and version control
+- Docker and container workflows
+- CI/CD pipeline concepts
+- Kubernetes and orchestration
+- Shell scripting and repeatable automation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Development & Automation
+- Python scripting
+- REST API and backend concepts
+- SQL and database fundamentals
+- Web application development
+- Debugging and deployment workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Products & Learning Platforms
+- Online quiz and test-series systems
+- Educational websites and applications
+- API-connected mobile apps
+- Content and workflow automation
+- Practical learning resources for exam preparation
+
+</td>
+</tr>
+</table>
+
+## 🧰 Technology Stack
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+</p>
 
 ### Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell scripting"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+### Networking & Telecom
+
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Networking-1572B6?style=flat-square)
+![RAN](https://img.shields.io/badge/RAN-Telecom-00599C?style=flat-square)
+![Transmission](https://img.shields.io/badge/Transmission-Systems-6A737D?style=flat-square)
+![NOC](https://img.shields.io/badge/NOC-Operations-4C8EDA?style=flat-square)
+![Monitoring](https://img.shields.io/badge/Monitoring-Troubleshooting-2E8B57?style=flat-square)
 
 ## 🚀 Featured Projects
 
-| Project | Description |
+A selection of projects and learning repositories from my GitHub profile.
+
+| Project | What it is |
 |---|---|
-| [Jharkhand Guru](https://github.com/erkirtanraj/Jharkhand.guru) | Education and exam-preparation platform project. |
-| [LMS Quiz Website](https://github.com/erkirtanraj/LMS_Quiz_Website) | Quiz and learning management system project. |
-| [RRB Guru](https://github.com/erkirtanraj/RRB_GURU) | Railway exam-preparation platform project. |
-| [Jharkhand Guru AI](https://github.com/erkirtanraj/JHARKHAND_GURU_AI) | AI-focused mobile app project. |
-| [Shell Scripting for DevOps](https://github.com/erkirtanraj/ShellScriptingforDevOpsEngineering) | Practice and notes for Shell scripting and DevOps. |
-| [AWS DevOps Zero to Hero](https://github.com/erkirtanraj/aws-devops-zero-to-hero) | Hands-on cloud and DevOps learning repository. |
+| [Jharkhand Guru](https://github.com/erkirtanraj/Jharkhand.guru) | Educational platform and exam-preparation project |
+| [LMS Quiz Website](https://github.com/erkirtanraj/LMS_Quiz_Website) | Quiz and learning management system |
+| [RRB Guru](https://github.com/erkirtanraj/RRB_GURU) | Railway exam-preparation platform |
+| [Jharkhand Guru AI](https://github.com/erkirtanraj/JHARKHAND_GURU_AI) | AI-focused application project |
+| [Ludo King 99](https://github.com/erkirtanraj/Ludo_king_99) | Ludo game application project |
+| [AWS DevOps Zero to Hero](https://github.com/erkirtanraj/aws-devops-zero-to-hero) | AWS and DevOps learning repository |
+| [Shell Scripting for DevOps](https://github.com/erkirtanraj/ShellScriptingforDevOpsEngineering) | Shell scripting practice and learning |
+| [Computer Networks Guide](https://github.com/erkirtanraj/computer-networks-guide) | Networking study and reference material |
 
-## 📚 Current Learning Goals
+➡️ **[Browse all repositories →](https://github.com/erkirtanraj?tab=repositories)**
 
-- AWS services and cloud infrastructure
-- Linux administration and Shell automation
-- Docker, Kubernetes, and CI/CD pipelines
-- Infrastructure as Code and deployment workflows
-- Python scripting for everyday engineering tasks
+## 🗺️ Current Learning Roadmap
 
-## 📊 GitHub Overview
+- [ ] Strengthen Linux administration and troubleshooting
+- [ ] Build practical AWS deployments and understand cloud security
+- [ ] Create CI/CD pipelines for application delivery
+- [ ] Containerize applications with Docker
+- [ ] Practice Kubernetes deployments and operations
+- [ ] Automate recurring tasks using Python and Shell
+- [ ] Document projects with clear setup steps, architecture, and lessons learned
+
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=erkirtanraj&show_icons=true&hide_border=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=erkirtanraj&layout=compact&hide_border=true&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=erkirtanraj&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkirtanraj&layout=compact&hide_border=true" alt="Most used languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=erkirtanraj&hide_border=true&theme=transparent)
+<img src="https://streak-stats.demolab.com?user=erkirtanraj&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
+
+> Stats and language cards are provided by third-party services and may occasionally be unavailable or reflect only public repository activity.
+
+## 🤝 Connect & Collaborate
+
+I'm interested in connecting with people working in **network engineering, cloud infrastructure, DevOps, automation, and educational technology**.
+
+- 🐙 GitHub: [@erkirtanraj](https://github.com/erkirtanraj)
+- 📂 Projects: [Repositories](https://github.com/erkirtanraj?tab=repositories)
+
+If a project interests you, explore the repository, open an issue, or share an idea.
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Learn and Build Together
+### ⭐ Thanks for visiting my profile!
 
-Thanks for visiting my profile! Feel free to explore my repositories and connect.
+**Learn continuously • Build practically • Automate thoughtfully**
 
-![Profile Views](https://komarev.com/ghpvc/?username=erkirtanraj&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=erkirtanraj&style=flat-square&color=blue&label=PROFILE+VIEWS)
 
 </div>

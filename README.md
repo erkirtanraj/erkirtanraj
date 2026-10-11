@@ -95,16 +95,20 @@ I'm an engineering professional with a **B.Tech in Electronics & Communication E
 
 ## 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/erkirtanraj">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=erkirtanraj&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="Kirtan Rajwar's GitHub statistics"/>
+  </a>
+  <a href="https://github.com/erkirtanraj">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkirtanraj&layout=compact&hide_border=true&langs_count=6&hide=Batchfile" alt="Most used programming languages"/>
+  </a>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=erkirtanraj&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erkirtanraj&layout=compact&hide_border=true" alt="Most used languages"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=erkirtanraj&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=erkirtanraj&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-<sub>GitHub statistics are provided by third-party services and may occasionally be unavailable.</sub>
+<sub>These cards use public GitHub activity and third-party services. Counts may be cached, so recent activity can take time to appear. Language percentages reflect repository code composition, not skill level.</sub>
 
 ## 🤝 Connect
 

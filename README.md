@@ -67,7 +67,7 @@ I'm an engineering professional with a **B.Tech in Electronics & Communication E
 
 - **B.Tech — Electronics & Communication Engineering**, Dr. A.P.J. Abdul Kalam Technical University, Lucknow (2016)
 - **Post Graduate Program in Data Science**, Simplilearn (2023)
-- **DevOps professional development** — pursuing
+- **DevOps professional development** , StarAgile (2025)
 
 ## 🚀 Selected Projects
 

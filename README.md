@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kirtan Rajwar
 
-### Engineering Professional | Telecom & Networking | Industrial Operations | DevOps Learner
+### Telecom & Network Operations | Industrial Operations | Cloud & DevOps Learner
 
-Electronics & Communication Engineering graduate with experience across telecom RAN/O&M/NOC, IT infrastructure, network troubleshooting, and operational support.
+Electronics & Communication Engineering graduate with experience in telecom RAN/O&M/NOC, IT infrastructure, network troubleshooting, technical coordination, and industrial operations.
 
 [![GitHub](https://img.shields.io/badge/GitHub-erkirtanraj-181717?style=for-the-badge&logo=github)](https://github.com/erkirtanraj)
 [![Website](https://img.shields.io/badge/Website-AKInfotek.in-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akinfotek.in/)
@@ -18,8 +18,8 @@ Electronics & Communication Engineering graduate with experience across telecom 
 
 I'm an engineering professional with a **B.Tech in Electronics & Communication Engineering** and experience in telecom network operations, IT infrastructure, troubleshooting, and technical coordination.
 
-🏭 **Current role:** Engineer at Tejas Networks; RAN/O&M/NOC support
-📡 **Telecom experience:** Network Engineer at Tejas Networks; RAN/O&M/NOC support for BSNL projects
+🏭 **Current role:** Graduate Engineer Trainee — Blower Operation, SMS, JSW Steel, Vijayanagar, Karnataka
+📡 **Previous telecom role:** Network Engineer at Tejas Networks; RAN/O&M/NOC support for BSNL projects
 🖧 **Operations background:** LAN/WAN, system administration, monitoring, backup/recovery, and technical field coordination
 📊 **Additional training:** Post Graduate Program in Data Science (Simplilearn, 2023)
 ☁️ **Current learning focus:** DevOps, Linux, Shell scripting, AWS, containers, and CI/CD
@@ -27,8 +27,13 @@ I'm an engineering professional with a **B.Tech in Electronics & Communication E
 
 ## 💼 Experience
 
+### Graduate Engineer Trainee — Blower Operation
+**JSW Steel | SMS, Vijayanagar, Karnataka | October 2025 – Present**
+
+- Working in steel plant blower operations, with focus on operational monitoring and safe, reliable equipment operation.
+
 ### Network Engineer — RAN / O&M / NOC
-**Tejas Networks Pvt. Ltd. | January 2024 – Present**
+**Tejas Networks Pvt. Ltd. | January 2024 – October 2025**
 
 - Supported RAN operations and BSNL telecom projects, including LTE node configuration, migration, and maintenance.
 - Worked on RRH software upgrades and FDD/TDD cell configuration.
@@ -73,16 +78,21 @@ I'm an engineering professional with a **B.Tech in Electronics & Communication E
 
 | Project | Description |
 |---|---|
-| [Jharkhand Guru](https://github.com/erkirtanraj/Jharkhand.guru) | Education and exam-preparation platform |
-| [LMS Quiz Website](https://github.com/erkirtanraj/LMS_Quiz_Website) | Quiz and learning management system |
-| [RRB Guru](https://github.com/erkirtanraj/RRB_GURU) | Railway exam-preparation project |
-| [Jharkhand Guru AI](https://github.com/erkirtanraj/JHARKHAND_GURU_AI) | AI-focused application project |
-| [Ludo King 99](https://github.com/erkirtanraj/Ludo_king_99) | Ludo game application |
+| [ECR-ECS Project](https://github.com/erkirtanraj/ECR-ECS-Project) | AWS container deployment / ECR-ECS project |
+| [Docker by Kastro](https://github.com/erkirtanraj/Docker-by-Kastro) | Docker learning and practice |
+| [AWS DevOps Zero to Hero](https://github.com/erkirtanraj/aws-devops-zero-to-hero) | AWS and DevOps learning repository |
+| [GCP Zero to Hero](https://github.com/erkirtanraj/gcp-zero-to-hero) | Google Cloud learning repository |
+| [Shell Scripting for DevOps](https://github.com/erkirtanraj/ShellScriptingforDevOpsEngineering) | Shell scripting practice and notes |
+| [Computer Networks Guide](https://github.com/erkirtanraj/computer-networks-guide) | Computer networking reference material |
+| [DevOps Class Notes](https://github.com/erkirtanraj/DevOps_ClassNotes) | DevOps course notes and learning material |
+| [Kubernetes Training](https://github.com/erkirtanraj/Kubernetes-Trainning-Ericsson-21Apr) | Kubernetes training materials |
 | [AWS DevOps Zero to Hero](https://github.com/erkirtanraj/aws-devops-zero-to-hero) | AWS and DevOps learning repository |
 | [Shell Scripting for DevOps](https://github.com/erkirtanraj/ShellScriptingforDevOpsEngineering) | Shell scripting practice and notes |
 | [Computer Networks Guide](https://github.com/erkirtanraj/computer-networks-guide) | Computer networking reference material |
 
 ➡️ **[Browse all repositories](https://github.com/erkirtanraj?tab=repositories)**
+
+*Some application repositories are private and are therefore not listed here; the links above point to public repositories.*
 
 ## 📚 Current Learning Roadmap
 

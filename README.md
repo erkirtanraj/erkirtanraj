@@ -165,6 +165,6 @@ If a project interests you, explore the repository, open an issue, or share an i
 
 **Learn continuously • Build practically • Automate thoughtfully**
 
-![Profile Views](https://komarev.com/ghpvc/?username=erkirtanraj&style=flat-square&color=blue&label=PROFILE+VIEWS)
+[![GitHub Profile](https://img.shields.io/badge/Visit-GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erkirtanraj)
 
 </div>

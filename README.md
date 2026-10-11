@@ -18,23 +18,17 @@ Electronics & Communication Engineering graduate with experience across telecom 
 
 I'm an engineering professional with a **B.Tech in Electronics & Communication Engineering** and experience in telecom network operations, IT infrastructure, troubleshooting, and technical coordination.
 
-- 🏭 **Current role:** Graduate Engineer Trainee — Blower Operation, JSW Steel, Vijayanagar
-- 📡 **Telecom experience:** Network Engineer at Tejas Networks; RAN/O&M/NOC support for BSNL projects
-- 🖧 **Operations background:** LAN/WAN, system administration, monitoring, backup/recovery, and technical field coordination
-- 📊 **Additional training:** Post Graduate Program in Data Science (Simplilearn, 2023)
-- ☁️ **Current learning focus:** DevOps, Linux, Shell scripting, AWS, containers, and CI/CD
-- 🌐 **Website:** [akinfotek.in](https://akinfotek.in/)
+🏭 **Current role:** Engineer at Tejas Networks; RAN/O&M/NOC support
+📡 **Telecom experience:** Network Engineer at Tejas Networks; RAN/O&M/NOC support for BSNL projects
+🖧 **Operations background:** LAN/WAN, system administration, monitoring, backup/recovery, and technical field coordination
+📊 **Additional training:** Post Graduate Program in Data Science (Simplilearn, 2023)
+☁️ **Current learning focus:** DevOps, Linux, Shell scripting, AWS, containers, and CI/CD
+🌐 **Website:** [akinfotek.in](https://akinfotek.in/)
 
 ## 💼 Experience
 
-### Graduate Engineer Trainee — Blower Operation
-**JSW Steel | Vijayanagar, Karnataka | October 2025 – Present**
-
-- Supporting blower operations within the Steel Melting Shop (SMS).
-- Focused on equipment/process monitoring, safe operation, and operational reliability.
-
 ### Network Engineer — RAN / O&M / NOC
-**Tejas Networks Pvt. Ltd. | January 2024 – October 2025**
+**Tejas Networks Pvt. Ltd. | January 2024 – Present**
 
 - Supported RAN operations and BSNL telecom projects, including LTE node configuration, migration, and maintenance.
 - Worked on RRH software upgrades and FDD/TDD cell configuration.

@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Kirtan Rajwar
 
-### Telecom & Network Operations | Industrial Operations | Cloud & DevOps Learner
+### Telecom Network Engineer | RAN / O&M / NOC | Cloud & DevOps Learner
 
-Electronics & Communication Engineering graduate with experience in telecom RAN/O&M/NOC, IT infrastructure, network troubleshooting, technical coordination, and industrial operations.
+Electronics & Communication Engineering graduate working in telecom network engineering, with experience in RAN/O&M/NOC operations, IT infrastructure, network troubleshooting, and technical coordination.
 
 [![GitHub](https://img.shields.io/badge/GitHub-erkirtanraj-181717?style=for-the-badge&logo=github)](https://github.com/erkirtanraj)
 [![Website](https://img.shields.io/badge/Website-AKInfotek.in-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akinfotek.in/)
@@ -18,8 +18,8 @@ Electronics & Communication Engineering graduate with experience in telecom RAN/
 
 I'm an engineering professional with a **B.Tech in Electronics & Communication Engineering** and experience in telecom network operations, IT infrastructure, troubleshooting, and technical coordination.
 
-🏭 **Current role:** Graduate Engineer Trainee — Blower Operation, SMS, JSW Steel, Vijayanagar, Karnataka
-📡 **Previous telecom role:** Network Engineer at Tejas Networks; RAN/O&M/NOC support for BSNL projects
+📡 **Current role:** Network Engineer at Tejas Networks Pvt. Ltd. (January 2024 – Present)
+🛰️ **Focus:** RAN / O&M / NOC operations supporting BSNL projects
 🖧 **Operations background:** LAN/WAN, system administration, monitoring, backup/recovery, and technical field coordination
 📊 **Additional training:** Post Graduate Program in Data Science (Simplilearn, 2023)
 ☁️ **Current learning focus:** DevOps, Linux, Shell scripting, AWS, containers, and CI/CD
@@ -27,13 +27,8 @@ I'm an engineering professional with a **B.Tech in Electronics & Communication E
 
 ## 💼 Experience
 
-### Graduate Engineer Trainee — Blower Operation
-**JSW Steel | SMS, Vijayanagar, Karnataka | October 2025 – Present**
-
-- Working in steel plant blower operations, with focus on operational monitoring and safe, reliable equipment operation.
-
 ### Network Engineer — RAN / O&M / NOC
-**Tejas Networks Pvt. Ltd. | January 2024 – October 2025**
+**Tejas Networks Pvt. Ltd. | January 2024 – Present**
 
 - Supported RAN operations and BSNL telecom projects, including LTE node configuration, migration, and maintenance.
 - Worked on RRH software upgrades and FDD/TDD cell configuration.
